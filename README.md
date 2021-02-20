@@ -2,6 +2,8 @@
 
 ## Project Link
 
+https://puthpiseth.github.io/10-Hold-Shift-and-Checkboxes/index-START.html
+
 ## Guides
 
 Quand une case à cocher est sélectionnée, le texte du paragraphe apparaîtra barré.
